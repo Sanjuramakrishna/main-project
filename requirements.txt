@@ -1,0 +1,20 @@
+# Cognitive Career Advisory System — Python Dependencies
+
+# Core Django Web Framework
+Django>=4.2.0,<6.0.0
+
+# Data Science & Machine Learning Recommendation Engines
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+joblib>=1.3.0
+
+# Resume Extraction & PDF Advisory Report Generation
+pymupdf>=1.23.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+
+# Generative AI, API Services & Utilities
+google-genai>=0.1.0
+requests>=2.28.0
+python-dotenv>=1.0.0
